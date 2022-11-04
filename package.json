@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "html-pdf": "^3.0.1",
+    "promisify": "^0.0.3"
+  }
+}
